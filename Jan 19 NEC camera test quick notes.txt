@@ -1,3 +1,0 @@
-Quick Notes from the test:
-
-Cameras took noticeably longer to match people and had a harder time making matches, there were a lot of poor image qualities. Currently checking what cause the poor images. Single stream video locked up multiple times on different cameras. There were more specific issue that came up, currently investing the cause of them. When getting multiple poor image quality lights, the camera lens were covered to invoke the “no faces detected “ instruction screen to pseudo-refresh the camera face detection.
